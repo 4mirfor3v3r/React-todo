@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Ahmad Amirudin/05/XIRPL 1
+# Ahmad Amirudin/05/XIRPL 1
 
-# Test App
+### Test App
 https://react-todo-host.web.app
 
 ## Available Scripts
